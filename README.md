@@ -28,3 +28,4 @@ print()
 input()
  ![imagem](jujutsu-kaisen-staffe!-2-gojo.jpg)
  shutdown /f /t# Bem Vindo
+# atividades_logica_curso
